@@ -9,7 +9,15 @@ I'm a passionate **MERN Stack Developer** from India 🇮🇳
 - 🧰 Tools: Git, GitHub, VS Code, Postman
 
 ### 📈 GitHub Stats
+### 📈 GitHub Stats
 ![Honey's GitHub stats](https://github-readme-stats.vercel.app/api?username=QweetAadfg&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QweetAadfg&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=QweetAadfg&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=QweetAadfg&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### 🔭 Tasks
 - 🔥 Weather App using WeatherAPI
