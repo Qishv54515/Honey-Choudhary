@@ -1,17 +1,17 @@
 # Hi, I'm Honey 👋
 
-I'm a passionate **Full-Stack Developer** from India 🇮🇳
+I'm a passionate **MERN Stack Developer** from India 🇮🇳
 
 ### 💻 Tech Stack
-- 🌐 Frontend: React, HTML5, CSS3, JavaScript, Tailwind
-- 🛠 Backend: Node.js, Express.js
-- 🗄️ Database: MongoDB, Firebase
+- 🌐 Frontend: React, HTML5, CSS3, JavaScript
+- 🛠 Backend: Node.js
+- 🗄️ Database: MongoDB
 - 🧰 Tools: Git, GitHub, VS Code, Postman
 
 ### 📈 GitHub Stats
 ![Honey's GitHub stats](https://github-readme-stats.vercel.app/api?username=QweetAadfg&show_icons=true&theme=radical)
 
-### 🔭 Projects
+### 🔭 Tasks
 - 🔥 Weather App using WeatherAPI
 - 📚 Bookshelf App with localStorage
 - 📝 Quiz App with Timer & JSON questions
