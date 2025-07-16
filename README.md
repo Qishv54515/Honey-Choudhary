@@ -18,4 +18,4 @@ I'm a passionate **MERN Stack Developer** from India 🇮🇳
 
 ### 📫 Connect with me:
 [![LinkedIn] (www.linkedin.com/in/honey-kumar-12233824b)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail)](mailto:your.email@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail)](mailto:hk9484678@gmail.com)
